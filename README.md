@@ -1,6 +1,8 @@
 #Sample Travel App design
+
 ![Splash Screen](images/f1.jpg)
-A new Flutter project.
+![Home Screen](images/f2.jpg)
+
 
 ## Getting Started
 

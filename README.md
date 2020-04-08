@@ -1,5 +1,5 @@
-# firstdesignui
-
+#Sample Travel App design
+![Splash Screen](images/f1)
 A new Flutter project.
 
 ## Getting Started
